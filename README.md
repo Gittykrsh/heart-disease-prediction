@@ -55,7 +55,7 @@ Cardiovascular diseases are a leading cause of mortality worldwide. Early detect
 ---
 
 ## 📁 Dataset
-The dataset used is `heart.csv`, which contains labeled medical data. (You can download it from here Kaggle -> https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci.)
+The dataset used is `heart.csv`, which contains labeled medical data. (You can download it from here -> Kaggle -> https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci.)
 
 ---
 
