@@ -55,7 +55,7 @@ Cardiovascular diseases are a leading cause of mortality worldwide. Early detect
 ---
 
 ## 📁 Dataset
-The dataset used is `heart.csv`, which contains labeled medical data. (Ensure to include it in your repository or provide a link to download.)
+The dataset used is `heart.csv`, which contains labeled medical data. (You can download it from here Kaggle -> https://www.kaggle.com/code/ronitf/predicting-heart-disease.)
 
 ---
 
