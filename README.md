@@ -59,4 +59,4 @@ The dataset used is `heart.csv`, which contains labeled medical data. (You can d
 
 ---
 
-## ❤️ Made with love by [Shakyasimha Das]
+## ❤️ Made with love by Shakyasimha Das.
